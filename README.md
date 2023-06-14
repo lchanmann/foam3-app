@@ -1,2 +1,2 @@
-# foam3-app
+# FOAM3 App
 Quickstart FOAM3 app
