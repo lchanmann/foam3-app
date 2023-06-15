@@ -1,0 +1,11 @@
+p({
+  "class":"foam.nanos.auth.User",
+  "id":101,
+  "lifecycleState":1,
+  "firstName":"Admin",
+  "userName":"admin",
+  "password":"RAosri2pHX0=:KmtXlFF9KqA4tdsVqrBdcokHxJJnKbrzItO7kGxAFWZvzLQ+38uPV0p5kL9e29i+c5u2IiRoIiFzWulTshSK9A==",
+  "group":"system",
+  "loginEnabled":true,
+  "emailVerified":true
+})
