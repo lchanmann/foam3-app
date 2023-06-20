@@ -1,9 +1,10 @@
 .idea/
 .gradle/
+.DS_Store
 
 node_modules/
-
 build/
-runtime/
 target/
-foam-bin.js
+
+.foam/
+foam-bin*.js
